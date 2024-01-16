@@ -1,0 +1,25 @@
+.picProfile {
+  width: 500px;
+  border-radius: 50%;
+  border: 9px solid #00c0fd;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.segmentoPresentacion {
+  display: flex;
+  position: absolute;
+  left: 400px;
+  align-items: center;
+  justify-content: center;
+  gap: 120px
+}
+
+h1 {
+  color: var(--Solid-Heading, #42446e);
+  font-family: Poppins;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 120.69% */
+  letter-spacing: -1px;
+}
