@@ -7,8 +7,6 @@
 
 .segmentoPresentacion {
   display: flex;
-  position: absolute;
-  left: 400px;
   align-items: center;
   justify-content: center;
   gap: 120px

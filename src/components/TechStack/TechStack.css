@@ -1,0 +1,31 @@
+h2 {
+  color: #42446e;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px; /* 54.167% */
+}
+p {
+  margin: 45px 0px;
+  color: var(--dark-content, #666);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 81.25% */
+}
+
+.containertittle{
+    min-height: 100vh;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    max-width: 1000px; 
+    margin: 0px 100px;
+}
+
+.containertittle > svg{
+    margin: 10px 15px;
+}
