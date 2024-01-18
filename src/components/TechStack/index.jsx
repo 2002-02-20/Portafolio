@@ -1,10 +1,11 @@
 import React from "react";
-import "./TechStack.css";
+import './TechStack.css'
+
 const TechStack = () => {
   return (
     <>
       <h2>My Tech Stack</h2>
-      <p>Technologies I’ve been working with recently</p>
+      <p className="textDownTech">Technologies I’ve been working with recently</p>
       
       <div className="containertittle">
         {/* HTML ICON */}
