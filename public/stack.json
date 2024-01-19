@@ -2,102 +2,55 @@
   {
     "id": "1",
     "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg",
-    "TituloProyecto": "Project Tile goes here",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
     "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
     "linkProject": "",
-    "iconLinkGit": "",
     "linkProjectGit": ""
   },
   {
     "id": "2",
-    "imgProyect": "",
+    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg",
     "TituloProyecto": "Project Tile goes here",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
     "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
     "linkProject": "",
-    "iconLinkGit": "",
     "linkProjectGit": ""
   },
   {
     "id": "3",
-
-    "imgProyect": "",
+    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg", 
     "TituloProyecto": "Project Tile goes here",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
     "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
     "linkProject": "",
-    "iconLinkGit": "",
     "linkProjectGit": ""
   },
   {
     "id": "4",
-    "imgProyect": "",
+    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg", 
     "TituloProyecto": "Project Tile goes here",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
     "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
     "linkProject": "",
-    "iconLinkGit": "",
     "linkProjectGit": ""
   },
   {
     "id": "5",
-    "imgProyect": "",
+    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg", 
     "TituloProyecto": "Project Tile goes here",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
     "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
     "linkProject": "",
-    "iconLinkGit": "",
     "linkProjectGit": ""
   },
   {
     "id": "6",
-    "imgProyect": "",
+    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg", 
     "TituloProyecto": "Project Tile goes here",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
     "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
     "linkProject": "",
-    "iconLinkGit": "",
-    "linkProjectGit": ""
-  },
-  {
-    "id": "7",
-    "imgProyect": "",
-    "TituloProyecto": "Project Tile goes here",
-    "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
-    "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
-    "linkProject": "",
-    "iconLinkGit": "",
-    "linkProjectGit": ""
-  },
-  {
-    "id": "8",
-    "imgProyect": "",
-    "TituloProyecto": "Project Tile goes here",
-    "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
-    "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
-    "linkProject": "",
-    "iconLinkGit": "",
-    "linkProjectGit": ""
-  },
-  {
-    "id": "9",
-
-    "imgProyect": "",
-    "TituloProyecto": "Project Tile goes here",
-    "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
-    "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "iconLink": "",
-    "linkProject": "",
-    "iconLinkGit": "",
     "linkProjectGit": ""
   }
+ 
 ]

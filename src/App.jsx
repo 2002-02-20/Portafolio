@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Presentacion from './components/Presentacion'
 import TechStack from './components/TechStack'
 import Proyects from './components/Proyects'
+import Footer from './Footer'
 function App() {
 
   return (
@@ -20,6 +21,8 @@ function App() {
     <ul className="containerProjectsUl">
     <Proyects/>
     </ul>
+
+    <Footer/>
     </>
   )
 }
