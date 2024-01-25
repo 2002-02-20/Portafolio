@@ -9,30 +9,30 @@
   },
   {
     "id": "2",
-    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg",
-    "TituloProyecto": "Project Tile goes here",
+    "imgProyect": "/desktop-preview.jpg",
+    "TituloProyecto": "Sunnyside Agency",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
-    "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "linkProject": "",
-    "linkProjectGit": ""
+    "lenguajePrograma": "Tech stack : HTML , JavaScript, React, Tailwind",
+    "linkProject": "https://sunnyside-agency-puce.vercel.app/",
+    "linkProjectGit": "https://github.com/2002-02-20/Sunnyside-agency"
   },
   {
     "id": "3",
-    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg", 
-    "TituloProyecto": "Project Tile goes here",
+    "imgProyect": "/desktop-preview-New.jpg", 
+    "TituloProyecto": "News Homepage",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
-    "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "linkProject": "",
-    "linkProjectGit": ""
+    "lenguajePrograma": "Tech stack : HTML , JavaScript, React, Tailwind",
+    "linkProject": "https://news-homepage-xi-lime.vercel.app/",
+    "linkProjectGit": "https://github.com/2002-02-20/News-homepage"
   },
   {
     "id": "4",
-    "imgProyect": "https://pandorafms.com/blog/wp-content/uploads/2018/10/Breve-Historia-de-la-Gestion-de-Proyectos.jpg", 
-    "TituloProyecto": "Project Tile goes here",
+    "imgProyect": "/Windbnb.png", 
+    "TituloProyecto": "Windbnb",
     "description": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
-    "lenguajePrograma": "Tech stack : HTML , JavaScript, SASS, React",
-    "linkProject": "",
-    "linkProjectGit": ""
+    "lenguajePrograma": "Tech stack : HTML , JavaScript, React, Tailwind",
+    "linkProject": "https://mini-proyecto-n3-r1gg.vercel.app/",
+    "linkProjectGit": "https://github.com/2002-02-20/mini-proyecto-N3.git"
   },
   {
     "id": "5",
