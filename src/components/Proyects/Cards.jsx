@@ -12,7 +12,7 @@ export default function Cards({
   return (
     <>
       <li>
-        <div className="containerProjects">
+        <div className="containerProjects transform hover:scale-110 transition duration-300 ease-in-out">
           <img src={imgProyect} alt="" className="imgProject" />
           <div className="textOnCards">
             <h3>{TituloProyecto}</h3>

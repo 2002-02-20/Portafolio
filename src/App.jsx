@@ -15,8 +15,8 @@ function App() {
 
     <TechStack/>
     
-    <h2>Projects</h2>
-    <p className='textDownProjects'>Things I’ve built so far</p>
+    <h2 className='text-indigo-900 text-5xl sm:px-10 md:justify-center md:flex py-8'>Projects</h2>
+    <p className='sm:px-10 text-[32px] text-gray-400 md:justify-center md:flex py-6'>Things I’ve built so far</p>
 
     <ul className="containerProjectsUl">
     <Proyects/>

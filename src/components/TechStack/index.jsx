@@ -1,15 +1,18 @@
 import React from "react";
-import './TechStack.css'
+import "./TechStack.css";
 
 const TechStack = () => {
   return (
     <>
-      <h2>My Tech Stack</h2>
-      <p className="textDownTech">Technologies I’ve been working with recently</p>
-      
-      <div className="containertittle">
+      <h2 className="text-indigo-900 text-5xl items-center sm:p-8 md:justify-center md:flex">My Tech Stack</h2>
+      <p className="text-[32px] text-gray-400 sm:px-8 md:flex md:justify-center">
+        Technologies I’ve been working with recently
+      </p>
+
+      <div className="containertittle transform hover:scale-110 transition duration-300 ease-in-out">
         {/* HTML ICON */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="120"
           height="120"
@@ -36,6 +39,7 @@ const TechStack = () => {
 
         {/* CSS ICON */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="120"
           height="119"
@@ -70,6 +74,7 @@ const TechStack = () => {
 
         {/* JS ICON */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="120"
           height="120"
@@ -85,6 +90,7 @@ const TechStack = () => {
 
         {/* REACT ICON */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="113"
           height="101"
@@ -106,6 +112,7 @@ const TechStack = () => {
 
         {/* TAILWING ICON */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="131"
           height="131"
@@ -120,6 +127,7 @@ const TechStack = () => {
 
         {/* VISUAL STUDIO */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="105"
           height="105"
@@ -141,6 +149,7 @@ const TechStack = () => {
 
         {/* VISUAL STUDIO */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="112"
           height="112"
@@ -163,6 +172,7 @@ const TechStack = () => {
 
         {/* GIT HUB */}
         <svg
+          className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="88"
           height="88"

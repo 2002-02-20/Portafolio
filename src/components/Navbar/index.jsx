@@ -1,12 +1,12 @@
 import React from "react";
 
-import "./Navbar.css";
 
 const Navbar = () => {
   return (
     <>
-      <header>
-        <div className="imgPavanmg">
+      <header className="lg:flex lg:items-center lg:justify-around lg:py-5 md:items-center md:flex sm:block sm:p-8 ">
+
+        <div className="flex transform hover:scale-110 transition duration-300 ease-in-out">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="97"
@@ -203,19 +203,24 @@ const Navbar = () => {
           </defs>
         </svg>{" "}
         </div>
-        <div className="listNavbar">
-        <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Tech Stack</li>
-          <li>Projects</li>
-          <li>Contact</li>
+
+        <div className=" transform hover:scale-110 transition duration-300 ease-in-out ">
+
+        <ul className=" lg:flex text-gray-400 lg:gap-x-[2.78rem] lg:transform lg:text-lg hover:scale-110 transition duration-300 ease-in-out sm:flex px-12 sm:py-4 sm:gap-x-8">
+
+          <li className="hover:text-gray-800  transform hover:scale-110 transition duration-300 ease-in-out">Home</li>
+          <li className="hover:text-gray-800  transform hover:scale-110 transition duration-300 ease-in-out">About</li>
+          <li className="hover:text-gray-800  transform hover:scale-110 transition duration-300 ease-in-out">Tech Stack</li>
+          <li className="hover:text-gray-800  transform hover:scale-110 transition duration-300 ease-in-out">Projects</li>
+          <li className="hover:text-gray-800  transform hover:scale-110 transition duration-300 ease-in-out">Contact</li>
         </ul>
-        
-        <div className="iconLinks">
+        </div>
+
+        <div className="flex transform hover:scale-110 transition duration-300 ease-in-out">
         {/* TWITTER ICON */}
         <a href="#">
         <svg
+        className="transform hover:scale-110 transition duration-300 ease-in-out "
           xmlns="http://www.w3.org/2000/svg"
           width="31"
           height="31"
@@ -232,6 +237,7 @@ const Navbar = () => {
         <a href="https://github.com/2002-02-20" target="_blank" >
         {/* GITHUB ICON */}
         <svg
+        className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="30"
           height="30"
@@ -249,6 +255,7 @@ const Navbar = () => {
         {/* LINKLELIN ICON */}
         <a href="#">
         <svg
+        className="transform hover:scale-110 transition duration-300 ease-in-out"
           xmlns="http://www.w3.org/2000/svg"
           width="30"
           height="30"
@@ -270,7 +277,7 @@ const Navbar = () => {
         </a>
         </div>
 
-        </div>
+        
       </header>
     </>
   );
